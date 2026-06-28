@@ -12,7 +12,7 @@ I'm passionate about building real-world AI and Data Science applications using 
 - 🌱 Currently learning Deep Learning & Computer Vision
 - 💻 Love building Machine Learning projects
 - 📊 Interested in AI, Data Analytics, and Automation
-- 📫 Reach me: your-email@example.com
+- 📫 Reach me: your-suhailazeez143@gmail..com
 
 ---
 
