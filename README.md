@@ -38,15 +38,3 @@ I'm passionate about building real-world AI and Data Science applications using 
 
 ---
 
-## 📊 GitHub Stats
-
-![Suhail's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suhail7736&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suhail7736&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Suhail7736&theme=tokyonight)
-
