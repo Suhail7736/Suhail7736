@@ -8,8 +8,6 @@ I'm passionate about building real-world AI and Data Science applications using 
 
 ## 💫 About Me
 
-- 🎓 Aspiring Data Scientist
-- 🌱 Currently learning Deep Learning & Computer Vision
 - 💻 Love building Machine Learning projects
 - 📊 Interested in AI, Data Analytics, and Automation
 - 📫 Reach me: your-suhailazeez143@gmail..com
